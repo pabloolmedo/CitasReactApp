@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CitasReactApp/static/css/main.f0022edd.chunk.css",
+    "main.js": "/CitasReactApp/static/js/main.e91093cb.chunk.js",
+    "main.js.map": "/CitasReactApp/static/js/main.e91093cb.chunk.js.map",
+    "runtime-main.js": "/CitasReactApp/static/js/runtime-main.ebe64f40.js",
+    "runtime-main.js.map": "/CitasReactApp/static/js/runtime-main.ebe64f40.js.map",
+    "static/js/2.2aca169f.chunk.js": "/CitasReactApp/static/js/2.2aca169f.chunk.js",
+    "static/js/2.2aca169f.chunk.js.map": "/CitasReactApp/static/js/2.2aca169f.chunk.js.map",
+    "index.html": "/CitasReactApp/index.html",
+    "precache-manifest.4c823891991ff766b56fa75cf01432ea.js": "/CitasReactApp/precache-manifest.4c823891991ff766b56fa75cf01432ea.js",
+    "service-worker.js": "/CitasReactApp/service-worker.js",
+    "static/css/main.f0022edd.chunk.css.map": "/CitasReactApp/static/css/main.f0022edd.chunk.css.map",
+    "static/js/2.2aca169f.chunk.js.LICENSE.txt": "/CitasReactApp/static/js/2.2aca169f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebe64f40.js",
+    "static/js/2.2aca169f.chunk.js",
+    "static/css/main.f0022edd.chunk.css",
+    "static/js/main.e91093cb.chunk.js"
+  ]
+}
